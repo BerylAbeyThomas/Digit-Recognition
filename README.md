@@ -1,7 +1,7 @@
 # Handwritten Digit Recognition using Machine Learning
 
 ## Overview
-This project focuses on **Handwritten Digit Recognition**, aiming to classify digits (0-9) using various **machine learning algorithms**. The dataset used was **self-collected**, inspired by the MNIST dataset. Multiple classification models were trained and evaluated to determine the best-performing algorithm.
+This project focuses on Handwritten Digit Recognition, aiming to classify digits (0-9) using various machine learning algorithms. The dataset used was self-collected, inspired by the MNIST dataset. Multiple classification models were trained and evaluated to determine the best-performing algorithm.
 
 ## System Design
 ![image](https://github.com/user-attachments/assets/fa072264-2f70-4a60-9e30-930f09b827d3)
@@ -24,7 +24,7 @@ This project focuses on **Handwritten Digit Recognition**, aiming to classify di
   - **Best model: SVM with Polynomial Kernel (94.33% accuracy)**
 
 ## Dataset
-The dataset consists of 1500 images of handwritten digits. Each image was converted into a **28x28 pixel grayscale representation**, resulting in **784 numerical features** per sample. A CSV file was created with these pixel values and their corresponding digit labels.
+The dataset consists of 1500 images of handwritten digits. Each image was converted into a 28x28 pixel grayscale representation, resulting in 784 numerical features per sample. A CSV file was created with these pixel values and their corresponding digit labels.
 
 #### 1. Sample digit
 ![image](https://github.com/user-attachments/assets/0a3f6d96-4792-497a-9e5a-ddd3828074b5)
@@ -63,6 +63,3 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 - **Beryl Abey Thomas**
 - **Pujala Akhila**
 - **Shalini Banerjee**
-
-## License
-This project is licensed under the **MIT License**.
