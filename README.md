@@ -55,9 +55,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 | XGBoost | 92.83% |
 
 ## Future Improvements
-- Implement **Deep Learning (CNNs)** for improved performance.
-- Extend the project to support **multiple languages/scripts**.
-- Deploy as a **web or mobile application**.
+- Implement Deep Learning (CNNs) for improved performance.
+- Extend the project to support multiple languages/scripts.
+- Deploy as a web or mobile application.
 
 ## Contributors
 - **Beryl Abey Thomas**
