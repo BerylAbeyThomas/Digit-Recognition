@@ -26,18 +26,17 @@ This project focuses on **Handwritten Digit Recognition**, aiming to classify di
 ## Dataset
 The dataset consists of 1500 images of handwritten digits. Each image was converted into a **28x28 pixel grayscale representation**, resulting in **784 numerical features** per sample. A CSV file was created with these pixel values and their corresponding digit labels.
 
-# Sample digit
+### Sample digit
 ![image](https://github.com/user-attachments/assets/0a3f6d96-4792-497a-9e5a-ddd3828074b5)
-Sample digit
 
+### Extracting pixels
 ![image](https://github.com/user-attachments/assets/4e27758a-5d3a-44b4-be72-7e5301d7fe72)
-Extracting pixels
 
+### Coverting pixels to comma separated strings
 ![image](https://github.com/user-attachments/assets/f7228260-c01b-4f55-ad0d-ad54af30964c)
-Coverting pixels to comma separated strings
 
+### Loading the .csv file
 ![image](https://github.com/user-attachments/assets/db1c0576-694f-4602-a07c-e9379ac3f92b)
-Loading the .csv file
 
 ## Installation
 To run this project, ensure you have the following dependencies installed:
