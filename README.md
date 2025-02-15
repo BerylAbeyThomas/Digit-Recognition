@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on Handwritten Digit Recognition, aiming to classify digits (0-9) using various machine learning algorithms. The dataset used was self-collected, inspired by the MNIST dataset. Multiple classification models were trained and evaluated to determine the best-performing algorithm.
 
-## System Design
+## Workflow
 ![image](https://github.com/user-attachments/assets/fa072264-2f70-4a60-9e30-930f09b827d3)
 
 
